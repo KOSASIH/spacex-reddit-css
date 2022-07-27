@@ -1,3 +1,5 @@
+[![CodeQL](https://github.com/KOSASIH/spacex-reddit-css/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/spacex-reddit-css/actions/workflows/codeql-analysis.yml)
+
 # Subreddit Design for r/SpaceX & r/SpaceXLounge
 
 The **MaxQ** theme is used on r/SpaceX & r/SpaceXLounge.
